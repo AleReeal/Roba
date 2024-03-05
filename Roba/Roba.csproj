@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Authors>alessandrore</Authors>
+    <Description>Libreria personale per velocizzare i miei processi più comuni (sicuramente esisterà già ma non so come si chiamano)</Description>
+    <Title>RobaPersonale</Title>
+  </PropertyGroup>
+
+</Project>
